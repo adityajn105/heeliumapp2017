@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Heelium App</string>
+    <string name="brand_prompt">Select Brand</string>
+    <string-array name="brand_array">
+        <item>Nike</item>
+        <item>Adidas</item>
+        <item>Puma</item>
+        <item>Reebok</item>
+        <item>Asics</item>
+        <item>Mizuno</item>
+        <item>Fila</item>
+        <item>Brooks</item>
+        <item>Other</item>
+    </string-array>
+</resources>
